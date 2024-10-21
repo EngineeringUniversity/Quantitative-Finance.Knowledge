@@ -1,0 +1,1 @@
+- [read these 5 books to break into quant trading as a software engineer](https://youtu.be/0pwpP2QOW9g)
